@@ -342,6 +342,11 @@ nav {
     margin-top: 25px;
     margin-bottom: 8px;
 }
+
+/*Nice to Have*/
+.dark-card {
+    background-color: #f2e8ce;
+}
 /*--------------------*/
 
 /*----Stiches----*/
